@@ -113,8 +113,11 @@ Contributions are always welcome! Feel free to fork the repo and submit a pull r
 ## 🧑‍💻 Author
 
 👤 Surya Teja Yellaboyina 
+
 📧 Email: [yellaboinasuryateja@gmail.com] 
+
 🌍 GitHub: @SuryaTeja200405 
+
 💼 LinkedIn: Surya Teja Yellaboyina
 
 ---
