@@ -39,49 +39,41 @@ This project demonstrates strong skills in **frontend development, component des
 Follow these simple steps to run the project locally 👇  
 
 ### 1️⃣ Clone the repository  
-bash
 
+bash
 git clone https://github.com/SuryaTeja200405/Surya-user-profiles-assessment.git
 
 2️⃣ Navigate into the project folder
 
 bash
-
 Copy code
-
 cd Surya-user-profiles-assessment
 
 3️⃣ Install dependencies
 
 bash
-
 Copy code
-
 npm install
 
 4️⃣ Start the development server
 
 bash
-
 Copy code
-
 npm start
 
 5️⃣ Build for production
 
 bash
-
 Copy code
-
 npm run build
 
 💡 Open your browser and visit http://localhost:3000 to view the project in action.
-
+---
 ## 📂 Folder Structure
-
 php
 Copy code
 Surya-user-profiles-assessment/
+
 │
 ├── src/
 │   ├── components/       # Reusable UI components
@@ -94,14 +86,14 @@ Surya-user-profiles-assessment/
 ├── public/               # Static assets and index.html
 ├── package.json          # Dependencies and scripts
 └── README.md             # Project documentation
-
+---
 ## 🌈 UI & Design Inspiration
 
 The layout is designed based on Figma mockups provided for this assessment.
 Every component, color, and typography is closely aligned with the original Figma design for perfect pixel-level precision.
 
 🎨 "The goal is not just to build a UI — but to craft a delightful user experience."
-
+---
 💡 Future Enhancements
 Here are some planned or potential improvements for the next version:
 
@@ -117,11 +109,11 @@ Use semantic HTML and accessibility best practices.
 Optimize performance using React hooks and lazy loading.
 
 Tailwind tip: Extract reusable styles using @apply and custom config.
-
+---
 🤝 Contributing
 Contributions are always welcome!
 
-
+---
 🧑‍💻 Author
 👤 Surya Teja Yellaboyina
 📧 Email: [yellaboinasuryateja@gmail.com]
