@@ -41,18 +41,22 @@ Follow these simple steps to run the project locally 👇
 ### 1️⃣ Clone the repository  
 bash
 git clone https://github.com/SuryaTeja200405/Surya-user-profiles-assessment.git
+
 2️⃣ Navigate into the project folder
 bash
 Copy code
 cd Surya-user-profiles-assessment
+
 3️⃣ Install dependencies
 bash
 Copy code
 npm install
 4️⃣ Start the development server
+
 bash
 Copy code
 npm start
+
 5️⃣ Build for production
 bash
 Copy code
@@ -78,6 +82,7 @@ Surya-user-profiles-assessment/
 └── README.md             # Project documentation
 
 ## 🌈 UI & Design Inspiration
+
 The layout is designed based on Figma mockups provided for this assessment.
 Every component, color, and typography is closely aligned with the original Figma design for perfect pixel-level precision.
 
