@@ -1,0 +1,52 @@
+:root{
+  --bg:#111;
+  --card:#fff;
+  --muted:#666;
+  --accent:#7b5cff;
+}
+
+*{box-sizing:border-box}
+body,html,#root{height:100%;margin:0;font-family:Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background: #f4f5f7;color:#222}
+.app{min-height:100vh;display:flex;flex-direction:column}
+.header{display:flex;justify-content:space-between;align-items:center;padding:12px 20px;background:#fff;box-shadow:0 1px 0 rgba(0,0,0,0.06)}
+.logo{font-weight:700}
+.header-actions{display:flex;align-items:center;gap:8px}
+.header-actions button{background:transparent;border:0;padding:8px 12px;border-radius:6px;cursor:pointer}
+.header-actions .avatar{width:36px;height:36px;border-radius:50%;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center}
+
+.main{padding:20px;flex:1}
+
+/* card */
+.card{background:var(--card);border-radius:8px;padding:18px;box-shadow:0 6px 14px rgba(30,41,59,0.06);margin-bottom:18px}
+.card-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+.primary{background:var(--accent);color:#fff;padding:8px 12px;border:0;border-radius:6px;cursor:pointer}
+.users-table{width:100%;border-collapse:collapse}
+.users-table th, .users-table td{padding:10px;border-bottom:1px solid #eee;text-align:left}
+.users-table td .icon{background:transparent;border:0;margin-left:6px}
+
+/* modal */
+.modal-overlay{position:fixed;left:0;top:0;right:0;bottom:0;background:rgba(0,0,0,0.45);display:flex;align-items:center;justify-content:center;z-index:40}
+.modal{width:420px;background:#fff;border-radius:8px;overflow:hidden}
+.modal-header{display:flex;justify-content:space-between;align-items:center;padding:12px 16px;border-bottom:1px solid #eee}
+.modal-body{padding:16px;display:flex;flex-direction:column;gap:12px}
+.modal-body label{display:flex;flex-direction:column;font-size:14px;color:var(--muted)}
+.modal-body input{padding:8px;border:1px solid #ddd;border-radius:6px}
+.modal-actions{display:flex;justify-content:flex-end;gap:8px;margin-top:8px}
+
+/* profile */
+.profile-page{display:flex;flex-direction:column;gap:12px}
+.profile-header{display:flex;align-items:center;gap:12px}
+.back{background:transparent;border:0;color:var(--muted);cursor:pointer}
+.profile-card{display:flex;align-items:center;gap:12px;background:#fff;padding:12px;border-radius:8px;width:100%}
+.avatar-large{width:72px;height:72px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;color:white;font-weight:700}
+.profile-meta h2{margin:0}
+.tabs{display:flex;gap:8px;margin-top:6px}
+.tabs button{background:#fff;border:1px solid #eee;padding:10px 12px;border-radius:8px;cursor:pointer}
+.tabs button.active{border-color:var(--accent);color:var(--accent);font-weight:600}
+
+/* forms inside profile */
+.profile-card-form .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:12px}
+.profile-card-form label{display:flex;flex-direction:column}
+.profile-card-form input, .profile-card-form textarea{padding:8px;border:1px solid #e6e6e6;border-radius:6px}
+.profile-card-form textarea{min-height:90px;resize:vertical}
+.row{display:flex;gap:12px;margin-top:12px}
