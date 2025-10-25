@@ -39,20 +39,30 @@ This project demonstrates strong skills in **frontend development, component des
 Follow these simple steps to run the project locally 👇  
 
 ### 1️⃣ Clone the repository  
+
 bash
 git clone https://github.com/SuryaTeja200405/Surya-user-profiles-assessment.git
+
 2️⃣ Navigate into the project folder
+
 bash
 cd Surya-user-profiles-assessment
+
 3️⃣ Install dependencies
+
 bash
 npm install
+
 4️⃣ Start the development server
+
 bash
 npm start
+
 5️⃣ Build for production
+
 bash
 npm run build
+
 💡 Open your browser and visit http://localhost:3000 to view the project in action.
 
 ---
@@ -61,7 +71,7 @@ npm run build
 ## 📂 Folder Structure
 Code
 Surya-user-profiles-assessment/
-│
+
 ├── src/
 │   ├── components/       # Reusable UI components
 │   ├── pages/            # Page-level components
