@@ -1,4 +1,4 @@
-# 🌐 Surya User Profiles Assessment  
+# 🌐 User Profiles Assessment  
 *A modern and interactive user profile management app built with React & Tailwind CSS.*
 
 ---
@@ -74,7 +74,7 @@ npm run build
 
 ## 📂 Folder Structure
 
-text
+```text
 Surya-user-profiles-assessment/
 ├── src/
 │   ├── components/       # Reusable UI components
