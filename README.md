@@ -40,27 +40,41 @@ Follow these simple steps to run the project locally 👇
 
 ### 1️⃣ Clone the repository  
 bash
+
 git clone https://github.com/SuryaTeja200405/Surya-user-profiles-assessment.git
 
 2️⃣ Navigate into the project folder
+
 bash
+
 Copy code
+
 cd Surya-user-profiles-assessment
 
 3️⃣ Install dependencies
+
 bash
+
 Copy code
+
 npm install
+
 4️⃣ Start the development server
 
 bash
+
 Copy code
+
 npm start
 
 5️⃣ Build for production
+
 bash
+
 Copy code
+
 npm run build
+
 💡 Open your browser and visit http://localhost:3000 to view the project in action.
 
 ## 📂 Folder Structure
