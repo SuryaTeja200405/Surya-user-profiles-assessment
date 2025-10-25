@@ -72,32 +72,20 @@ npm run build
 
 ---
 
-
 ## 📂 Folder Structure
-Code
+
+text
 Surya-user-profiles-assessment/
-
 ├── src/
-
 │   ├── components/       # Reusable UI components
-
 │   ├── pages/            # Page-level components
-
 │   ├── assets/           # Images, icons, and static files
-
 │   ├── App.js            # Main application file
-
 │   ├── index.js          # Entry point
-
 │   └── styles/           # Custom CSS or Tailwind configs
-
 ├── public/               # Static assets and index.html
-
 ├── package.json          # Dependencies and scripts
-
 └── README.md             # Project documentation
-
----
 
 🌈 UI & Design Inspiration
 The layout is designed based on Figma mockups provided for this assessment. Every component, color, and typography is closely aligned with the original Figma design for perfect pixel-level precision.
