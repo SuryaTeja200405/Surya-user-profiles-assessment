@@ -41,26 +41,31 @@ Follow these simple steps to run the project locally 👇
 ### 1️⃣ Clone the repository  
 
 bash
+
 git clone https://github.com/SuryaTeja200405/Surya-user-profiles-assessment.git
 
 2️⃣ Navigate into the project folder
 
 bash
+
 cd Surya-user-profiles-assessment
 
 3️⃣ Install dependencies
 
 bash
+
 npm install
 
 4️⃣ Start the development server
 
 bash
+
 npm start
 
 5️⃣ Build for production
 
 bash
+
 npm run build
 
 💡 Open your browser and visit http://localhost:3000 to view the project in action.
@@ -73,15 +78,23 @@ Code
 Surya-user-profiles-assessment/
 
 ├── src/
+
 │   ├── components/       # Reusable UI components
+
 │   ├── pages/            # Page-level components
+
 │   ├── assets/           # Images, icons, and static files
+
 │   ├── App.js            # Main application file
+
 │   ├── index.js          # Entry point
+
 │   └── styles/           # Custom CSS or Tailwind configs
-│
+
 ├── public/               # Static assets and index.html
+
 ├── package.json          # Dependencies and scripts
+
 └── README.md             # Project documentation
 
 ---
@@ -110,6 +123,7 @@ Contributions are always welcome! Feel free to fork the repo and submit a pull r
 
 ---
 ## 🧑‍💻 Author
+
 👤 Surya Teja Yellaboyina 
 📧 Email: [yellaboinasuryateja@gmail.com] 
 🌍 GitHub: @SuryaTeja200405 
