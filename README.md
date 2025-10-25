@@ -24,13 +24,13 @@ This project demonstrates strong skills in **frontend development, component des
 
 ## ⚙️ Tech Stack  
 
-| Technology | Purpose |
-|-------------|----------|
-| **React.js** | Frontend library for building interactive UIs |
-| **Tailwind CSS** | Utility-first CSS for rapid styling |
-| **JavaScript (ES6+)** | Core scripting language |
-| **HTML5 / JSX** | Structure and rendering |
-| **Create React App** | Setup and build optimization |
+| Technology        | Purpose                                      |
+|------------------|----------------------------------------------|
+| **React.js**      | Frontend library for building interactive UIs |
+| **Tailwind CSS**  | Utility-first CSS for rapid styling           |
+| **JavaScript (ES6+)** | Core scripting language                  |
+| **HTML5 / JSX**   | Structure and rendering                       |
+| **Create React App** | Setup and build optimization              |
 
 ---
 
@@ -39,41 +39,28 @@ This project demonstrates strong skills in **frontend development, component des
 Follow these simple steps to run the project locally 👇  
 
 ### 1️⃣ Clone the repository  
-
 bash
 git clone https://github.com/SuryaTeja200405/Surya-user-profiles-assessment.git
-
 2️⃣ Navigate into the project folder
-
 bash
-Copy code
 cd Surya-user-profiles-assessment
-
 3️⃣ Install dependencies
-
 bash
-Copy code
 npm install
-
 4️⃣ Start the development server
-
 bash
-Copy code
 npm start
-
 5️⃣ Build for production
-
 bash
-Copy code
 npm run build
-
 💡 Open your browser and visit http://localhost:3000 to view the project in action.
----
-## 📂 Folder Structure
-php
-Copy code
-Surya-user-profiles-assessment/
 
+---
+
+
+## 📂 Folder Structure
+Code
+Surya-user-profiles-assessment/
 │
 ├── src/
 │   ├── components/       # Reusable UI components
@@ -86,17 +73,15 @@ Surya-user-profiles-assessment/
 ├── public/               # Static assets and index.html
 ├── package.json          # Dependencies and scripts
 └── README.md             # Project documentation
----
-## 🌈 UI & Design Inspiration
 
-The layout is designed based on Figma mockups provided for this assessment.
-Every component, color, and typography is closely aligned with the original Figma design for perfect pixel-level precision.
+---
+
+🌈 UI & Design Inspiration
+The layout is designed based on Figma mockups provided for this assessment. Every component, color, and typography is closely aligned with the original Figma design for perfect pixel-level precision.
 
 🎨 "The goal is not just to build a UI — but to craft a delightful user experience."
----
-💡 Future Enhancements
-Here are some planned or potential improvements for the next version:
 
+💡 Future Enhancements
 🔁 CRUD Functionality – Add Create, Update, Delete options for profiles.
 
 📊 User Analytics Dashboard – Visualize user data using charts and graphs.
@@ -109,15 +94,17 @@ Use semantic HTML and accessibility best practices.
 Optimize performance using React hooks and lazy loading.
 
 Tailwind tip: Extract reusable styles using @apply and custom config.
----
+
 🤝 Contributing
-Contributions are always welcome!
+Contributions are always welcome! Feel free to fork the repo and submit a pull request.
 
 ---
-🧑‍💻 Author
-👤 Surya Teja Yellaboyina
-📧 Email: [yellaboinasuryateja@gmail.com]
-🌍 GitHub: @SuryaTeja200405
-💼 LinkedIn: [https://www.linkedin.com/in/surya-teja-yellaboyina/]
+## 🧑‍💻 Author
+👤 Surya Teja Yellaboyina 
+📧 Email: [yellaboinasuryateja@gmail.com] 
+🌍 GitHub: @SuryaTeja200405 
+💼 LinkedIn: Surya Teja Yellaboyina
+
+---
 
 “Code is like art — simple, expressive, and meaningful.”
